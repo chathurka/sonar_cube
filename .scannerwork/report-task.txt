@@ -1,0 +1,7 @@
+organization=chathurka
+projectKey=chathurka_sonar_cube
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.67816
+dashboardUrl=https://sonarcloud.io/dashboard?id=chathurka_sonar_cube
+ceTaskId=AZmUeuVZakHU-nSJVuq7
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZmUeuVZakHU-nSJVuq7
